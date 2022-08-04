@@ -2,8 +2,8 @@
 
 In this repo there are two folders present,
 
-    * MLflow-walkthrough
-    * mlflow-packaging
+* MLflow-walkthrough
+* mlflow-packaging
 
 # MLflow-walkthrough
 
