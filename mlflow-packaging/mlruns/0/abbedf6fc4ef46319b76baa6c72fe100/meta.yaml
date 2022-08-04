@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gaurav/projects/mlflow_training/mlflow-packaging/mlruns/0/abbedf6fc4ef46319b76baa6c72fe100/artifacts
+end_time: 1659646339234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: abbedf6fc4ef46319b76baa6c72fe100
+run_uuid: abbedf6fc4ef46319b76baa6c72fe100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1659645739803
+status: 3
+tags: []
+user_id: gaurav
